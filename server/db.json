@@ -1,0 +1,234 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "titulo": "Toyota",
+      "descripcion": "Tacoma",
+      "transaccion": "Permuta",
+      "precio": "195438",
+      "puertas": "3",
+      "kms": "484354",
+      "potencia": "129"
+    },
+    {
+      "id": 2,
+      "titulo": "Mazda",
+      "descripcion": "RX-7",
+      "transaccion": "Alquiler",
+      "precio": "416881",
+      "puertas": "3",
+      "kms": "64667",
+      "potencia": "160"
+    },
+    {
+      "id": 3,
+      "titulo": "Pontiac",
+      "descripcion": "6000",
+      "transaccion": "Venta",
+      "precio": 325402,
+      "puertas": 6,
+      "kms": 648972,
+      "potencia": 239
+    },
+    {
+      "id": 4,
+      "titulo": "Volkswagen",
+      "descripcion": "GTIX",
+      "transaccion": "Venta",
+      "precio": "420298",
+      "puertas": "1",
+      "kms": "277431",
+      "potencia": "149"
+    },
+    {
+      "id": 5,
+      "titulo": "GMC",
+      "descripcion": "2500 Club Coupe",
+      "transaccion": "Permuta",
+      "precio": 382955,
+      "puertas": 6,
+      "kms": 396864,
+      "potencia": 227
+    },
+    {
+      "id": 6,
+      "titulo": "Ford",
+      "descripcion": "Mustang",
+      "transaccion": "Permuta",
+      "precio": 95115,
+      "puertas": 4,
+      "kms": 48942,
+      "potencia": 110
+    },
+    {
+      "id": 7,
+      "titulo": "Hyundai",
+      "descripcion": "Tiburon",
+      "transaccion": "Permuta",
+      "precio": 384679,
+      "puertas": 2,
+      "kms": 12661,
+      "potencia": 218
+    },
+    {
+      "id": 8,
+      "titulo": "BMW",
+      "descripcion": "X6 M",
+      "transaccion": "Venta",
+      "precio": 352841,
+      "puertas": 1,
+      "kms": 238637,
+      "potencia": 108
+    },
+    {
+      "id": 9,
+      "titulo": "Mercury",
+      "descripcion": "Cougar",
+      "transaccion": "Permuta",
+      "precio": 347100,
+      "puertas": 2,
+      "kms": 360829,
+      "potencia": 46
+    },
+    {
+      "id": 10,
+      "titulo": "Saturn",
+      "descripcion": "Ion",
+      "transaccion": "Alquiler",
+      "precio": 334002,
+      "puertas": 2,
+      "kms": 216510,
+      "potencia": 77
+    },
+    {
+      "id": 11,
+      "titulo": "BMW",
+      "descripcion": "Z4",
+      "transaccion": "Alquiler",
+      "precio": 447695,
+      "puertas": 6,
+      "kms": 229620,
+      "potencia": 15
+    },
+    {
+      "id": 12,
+      "titulo": "Ford",
+      "descripcion": "F-Series",
+      "transaccion": "Venta",
+      "precio": 117197,
+      "puertas": 5,
+      "kms": 96749,
+      "potencia": 88
+    },
+    {
+      "id": 13,
+      "titulo": "Chevrolet",
+      "descripcion": "Corvette",
+      "transaccion": "Venta",
+      "precio": 37337,
+      "puertas": 2,
+      "kms": 495239,
+      "potencia": 8
+    },
+    {
+      "id": 14,
+      "titulo": "Audi",
+      "descripcion": "A3",
+      "transaccion": "Permuta",
+      "precio": 325028,
+      "puertas": 4,
+      "kms": 463362,
+      "potencia": 237
+    },
+    {
+      "id": 15,
+      "titulo": "Nissan",
+      "descripcion": "Xterra",
+      "transaccion": "Alquiler",
+      "precio": 37098,
+      "puertas": 1,
+      "kms": 304039,
+      "potencia": 39
+    },
+    {
+      "id": 16,
+      "titulo": "Land Rover",
+      "descripcion": "LR3",
+      "transaccion": "Alquiler",
+      "precio": 221996,
+      "puertas": 6,
+      "kms": 61965,
+      "potencia": 272
+    },
+    {
+      "id": 17,
+      "titulo": "Mercury",
+      "descripcion": "Villager",
+      "transaccion": "Venta",
+      "precio": 405923,
+      "puertas": 2,
+      "kms": 146690,
+      "potencia": 192
+    },
+    {
+      "id": 18,
+      "titulo": "Ford",
+      "descripcion": "Expedition EL",
+      "transaccion": "Alquiler",
+      "precio": 475737,
+      "puertas": 5,
+      "kms": 544130,
+      "potencia": 178
+    },
+    {
+      "id": 19,
+      "titulo": "Mercury",
+      "descripcion": "Sable",
+      "transaccion": "Alquiler",
+      "precio": 387364,
+      "puertas": 1,
+      "kms": 202727,
+      "potencia": 192
+    },
+    {
+      "id": 20,
+      "titulo": "Maserati",
+      "descripcion": "GranTurismoV",
+      "transaccion": "Permuta",
+      "precio": "575821",
+      "puertas": "5",
+      "kms": "271509",
+      "potencia": "256"
+    },
+    {
+      "id": 21,
+      "titulo": "PruebaTitulo",
+      "descripcion": "Desciopcion",
+      "transaccion": "Venta",
+      "precio": "344",
+      "puertas": "344",
+      "kms": "34",
+      "potencia": "34"
+    },
+    {
+      "id": 23,
+      "titulo": "tit",
+      "transaccion": "asd",
+      "descripcion": "Venta",
+      "precio": "1",
+      "puertas": "2",
+      "kms": "3",
+      "potencia": "4"
+    },
+    {
+      "id": 24,
+      "titulo": "titu",
+      "transaccion": "des",
+      "descripcion": "Venta",
+      "precio": "123",
+      "puertas": "12",
+      "kms": "12",
+      "potencia": "12"
+    }
+  ]
+}
